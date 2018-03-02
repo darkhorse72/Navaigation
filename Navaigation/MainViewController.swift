@@ -8,7 +8,9 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+//we used refactor (right click) to rename the viewconteoller to main vc to provide more clarity in namign covnention
+
+class MainViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
